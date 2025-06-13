@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577002978244",
+    "project_id": "eventia-ecf23",
+    "storage_bucket": "eventia-ecf23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577002978244:android:a856abda79030b6f1e0291",
+        "android_client_info": {
+          "package_name": "com.mycompany.eventia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV8hwIGVh7kV8X4bY_6MkOCAhoUO8cWWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
